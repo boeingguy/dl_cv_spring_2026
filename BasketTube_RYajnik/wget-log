@@ -1,0 +1,11 @@
+--2026-04-26 09:51:48--  https://www.youtube.com/watch?v=LPDnemFoqVk
+Resolving www.youtube.com (www.youtube.com)... 142.251.210.46, 142.251.211.110, 142.250.217.14, ...
+Connecting to www.youtube.com (www.youtube.com)|142.251.210.46|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘data/raw/basketball_game.mp4’
+
+data/raw/basketball_game.mp4      [<=>                                               ]       0  --.-KB/s               data/raw/basketball_game.mp4      [ <=>                                              ] 603.40K   827KB/s               data/raw/basketball_game.mp4      [  <=>                                             ]   1.37M  1.77MB/s    in 0.8s    
+
+2026-04-26 09:51:49 (1.77 MB/s) - ‘data/raw/basketball_game.mp4’ saved [1439097]
+

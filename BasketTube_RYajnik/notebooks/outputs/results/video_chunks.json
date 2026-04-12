@@ -1,0 +1,8 @@
+{
+  "video_duration": "Full basketball game",
+  "total_chunks": 0,
+  "chunk_duration": 20,
+  "overlap": 3,
+  "method": "Fixed-length sliding window (20s chunks with 3s overlap)",
+  "created": "2026-04-27"
+}

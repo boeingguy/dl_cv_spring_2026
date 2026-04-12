@@ -1,0 +1,18 @@
+# Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data & Outputs
+data/raw/*.mp4
+outputs/clips/*
+outputs/frames/*
+*.pth
+
+# Environment
+.venv/
+.env
+
+# Large files
+*.bin
+*.gguf
